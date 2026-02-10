@@ -46,7 +46,7 @@ except Exception:
 # -------------------------
 # ========== CONFIG =======
 # -------------------------
-TOKEN = "7874808864:AAE8duSMo7E56V8CVRjxwfHU-JohNGncyLg"          # <-- ضع توكن البوت هنا
+TOKEN = "7874808864:AAFvzeVXwjfN_me0i149gQz6ROZvlGa9NC8"          # <-- ضع توكن البوت هنا
 YOUR_ID = 6400336665               # <-- ضع ID حسابك هنا (مالك البوت الذي يستقبل المراسلات)
 GROUP_OWNER_ID = 6659611371        # <-- ضع ID مالك القروب (يمكن أن يكون نفس YOUR_ID)
 

@@ -25,8 +25,8 @@ from telegram import (
     ChatPermissions,
     InlineKeyboardButton,
     InlineKeyboardMarkup,
-    ParseMode,
 )
+from telegram.constants import ParseMode  # <-- استيراد جديد
 from telegram.ext import (
     ApplicationBuilder,
     ContextTypes,
